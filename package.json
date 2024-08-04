@@ -1,0 +1,37 @@
+{
+  "name": "OnlyPorn",
+  "version": "0.4.10",
+  "description": "Use your TV remote to its full potential!",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "web": "LOG_ENABLED=true LOG_LEVEL=info yarn start -- --launch",
+    "app": "LOG_ENABLED=true LOG_LEVEL=info yarn start -- --install",
+    "test": "LOG_ENABLED=true LOG_LEVEL=info node --test",
+    "dev": "LOG_ENABLED=true LOG_LEVEL=info nodemon server.js"
+  },
+  "dependencies": {
+    "@segment/analytics-node": "^2.1.2",
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fast-geoip": "^1.1.88",
+    "fisher-yates": "^1.0.4",
+    "ip": "^2.0.1",
+    "m3u8-parser": "^7.1.0",
+    "opn": "^6.0.0",
+    "pino": "^8.20.0",
+    "qs": "^6.12.1",
+    "request-ip": "^3.3.0",
+    "stremio-addon-sdk": "1.1.x"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.1.1",
+    "eslint": "^9.1.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "globals": "^15.1.0",
+    "prettier": "^3.2.5"
+  }
+}

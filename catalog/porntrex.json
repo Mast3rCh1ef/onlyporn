@@ -1,0 +1,47 @@
+{
+  "type": "movie",
+  "name": "OnlyPorn: Porntrex",
+  "id": "porntrex",
+  "extra": [
+    {
+      "name": "search"
+    },
+    {
+      "name": "genre",
+      "options": [
+        "4K porn",
+        "HD porn",
+        "18",
+        "18 year old",
+        "Jav",
+        "Teen",
+        "Asian",
+        "Cuckold",
+        "Hot wife",
+        "European",
+        "Caught",
+        "Cheating",
+        "Exotic",
+        "Uncensored",
+        "Facial",
+        "Family",
+        "Ass",
+        "Wet",
+        "Wife",
+        "Virgin",
+        "Workout",
+        "Step daughter",
+        "Step fantasy",
+        "Stepmom and son"
+      ]
+    },
+    {
+      "name": "skip"
+    }
+  ],
+  "extraSupported": [
+    "search",
+    "genre",
+    "skip"
+  ]
+}

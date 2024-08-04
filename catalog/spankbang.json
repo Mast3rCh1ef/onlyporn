@@ -1,0 +1,18 @@
+{
+  "type": "movie",
+  "name": "OnlyPorn: SpankBang",
+  "id": "spankbang",
+  "extra": [
+    {
+      "name": "search"
+    },
+    {
+      "name": "skip"
+    }
+  ],
+  "extraSupported": [
+    "search",
+    "genre",
+    "skip"
+  ]
+}

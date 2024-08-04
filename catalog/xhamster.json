@@ -1,0 +1,26 @@
+{
+  "type": "movie",
+  "name": "OnlyPorn: Xhamster",
+  "id": "xhamster",
+  "extra": [
+    {
+      "name": "search"
+    },
+    {
+      "name": "genre",
+      "options": [
+        "Best (Daily)",
+        "Best (Weekly)",
+        "Best (Monthly)"
+      ]
+    },
+    {
+      "name": "skip"
+    }
+  ],
+  "extraSupported": [
+    "search",
+    "genre",
+    "skip"
+  ]
+}

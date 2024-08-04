@@ -1,0 +1,18 @@
+{
+  "type": "movie",
+  "name": "OnlyPorn: Sxyprn",
+  "id": "sxyprn",
+  "extra": [
+    {
+      "name": "search"
+    },
+    {
+      "name": "skip"
+    }
+  ],
+  "extraSupported": [
+    "search",
+    "genre",
+    "skip"
+  ]
+}

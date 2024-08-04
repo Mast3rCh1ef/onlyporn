@@ -1,0 +1,18 @@
+{
+  "type": "movie",
+  "name": "OnlyPorn: Eporner",
+  "id": "eporner",
+  "extra": [
+    {
+      "name": "search"
+    },
+    {
+      "name": "skip"
+    }
+  ],
+  "extraSupported": [
+    "search",
+    "genre",
+    "skip"
+  ]
+}

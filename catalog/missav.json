@@ -1,0 +1,27 @@
+{
+  "type": "movie",
+  "name": "OnlyPorn: MissAV",
+  "id": "missav",
+  "extra": [
+    {
+      "name": "search"
+    },
+    {
+      "name": "genre",
+      "options": [
+        "Uncensored leak",
+        "Most viewed today",
+        "Weekly hot",
+        "Monthly hot"
+      ]
+    },
+    {
+      "name": "skip"
+    }
+  ],
+  "extraSupported": [
+    "search",
+    "genre",
+    "skip"
+  ]
+}
