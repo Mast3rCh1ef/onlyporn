@@ -20,6 +20,10 @@ const manifest = {
   types: ['movie'],
 
   catalogs,
+
+  behaviorHints: {
+    adult: true,
+  },
 };
 
 const builder = new addonBuilder(manifest);
